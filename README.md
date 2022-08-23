@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![jimin9038's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimin9038)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jimin9038/jimin9038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
